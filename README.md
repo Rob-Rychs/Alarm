@@ -1,4 +1,5 @@
-# 420! Alarm
+# My 420th ⭐️ let's learn a bit swift and refactor into React Native
+## 420! Alarm
 
 [![Language](https://img.shields.io/badge/Swift-3.1-orange.svg?style=flat)](https://swift.org)
 
